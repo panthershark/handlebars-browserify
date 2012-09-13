@@ -1,0 +1,25 @@
+{
+  "name": "handlebars-browserify",
+  "description": "Port of handlebars for use with node.js browserify",
+  "version": "0.0.0",
+  "homepage": "http://www.handlebarsjs.com/",
+  "keywords": [
+    "handlebars mustache template html"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tommydudebreaux/handlebars-browserify.js.git"
+  },
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "dependencies": {
+    "uglify-js": "~1.2"
+  },
+  "devDependencies": {
+  },
+  "main": "lib/handlebars.js",
+  "scripts": {
+  },
+  "optionalDependencies": {}
+}
